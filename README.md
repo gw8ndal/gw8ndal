@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=gw8ndal&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://xkcdrandom.netlify.app/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gw8ndal&icon=5&color=3)](https://visitcount.itsvg.in)
